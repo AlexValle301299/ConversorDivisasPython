@@ -11,7 +11,7 @@ Permite convertir entre múltiples monedas de forma rápida y con una interfaz d
 - Posibilidad de realizar múltiples conversiones en una sola ejecución.
 
 ## 📦 Requisitos
-- Python 3.8 o superior
+- Python 3.x
 - Librerías:
   ```bash
   pip install requests rich
